@@ -14,3 +14,10 @@ This Repository Contain a Power BI Dashboard Analyzing Ecommerce Sales Data
 
  * 💰**Profitabilty**- Regions and Categories driving profits
 ## 📷Dasboard Screenshots 
+![image alt](https://github.com/Aryangupta2104/Ecommerce-Sales-Analysis/blob/main/screenshort/Screenshot%202026-01-02%20201106.png?raw=true)
+
+![image alt](https://github.com/Aryangupta2104/Ecommerce-Sales-Analysis/blob/main/screenshort/Screenshot%202026-01-02%20201338.png?raw=true)
+
+## 🛠️Tool Used 
+* **Power BI** for Visulization
+* **DAX &Power Query** for Data Transformation 
